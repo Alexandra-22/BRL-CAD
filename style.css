@@ -217,12 +217,7 @@ a.menu{
     font-size: 30px;
 }
 .wrapper-color {
-  background: #000; 
-  /*background-image: url('https://brlcad.org/img/Archer_logo.png'); */
-  /*background-image: url('https://brlcad.org/gallery/_data/i/galleries/renderings/Hubble-cu_e520x360.jpg'); */
-  background-image: url('http://hdwarena.com/wp-content/uploads/2017/10/Free-Dark-Gradient.png');
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-color: #262673; 
   height: 300px;
   
 }
