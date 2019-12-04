@@ -1,5 +1,6 @@
 This is the "About" page for BRL-CAD. It was made with the help of Glitch. The page tells about the package and the history of BRL-CAD. The stylesheet is mostly the one used by BRL-CAD with some changes. The index.html contains all the site's content. No javascript was used.
 
+If you want to view what the site should look like visit: https://rainy-countess.glitch.me/
 
 
 
