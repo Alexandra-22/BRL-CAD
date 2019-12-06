@@ -148,7 +148,7 @@ a.menu{
     position: relative;
     font-family: Intro, Segoe UI, Open Sans, Arial, sans-serif;
     font-size: 100px;
-    color: white; /*d91a5d; */
+    color: white;/*#d0245e; */
     margin-top: 30px;
 
     text-shadow: 0px 0px 4px #282828,
@@ -217,12 +217,21 @@ a.menu{
     font-size: 30px;
 }
 .wrapper-color {
-  background-color: #262673; 
-  height: 300px;
+  background-color: black;
+  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/historic/csg_example-cu_e520x360.png"); /*60% width on this, white text - shapes*/
+  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/renderings/moose/Shiny%20Moose-cu_e520x360.png"); 60% width on this, white text - moose*/
+  background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-05%20at%206.29.29%20AM.png?1575545512819"); /*60% width on this, white text - hub */
+  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/historic/primitives_old-me.jpg"); /*use 100% width on this* renders w/ green back, white text*/
+  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/renderings/verde/nave4-cu_e520x360.jpg"); /*60% width, 98% height & lightGray background color, white text - space looking project*/
+  /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-05%20at%205.55.30%20AM.png?1575543346523"); /*60% width, black background, pink text - gear thing*/
+  background-repeat: no-repeat;
+  background-size: 60%  100%;
+  background-position: center;
+  height: 350px;
   
 }
 .wrapper-main{
-    width: 25%;
+    width: 22%;
     margin: 0px auto;
     padding-top: 70px;
     padding-bottom: 15px;
