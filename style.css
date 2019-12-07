@@ -217,17 +217,17 @@ a.menu{
     font-size: 30px;
 }
 .wrapper-color {
-  background-color: black;
-  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/historic/csg_example-cu_e520x360.png"); /*60% width on this, white text - shapes*/
-  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/renderings/moose/Shiny%20Moose-cu_e520x360.png"); 60% width on this, white text - moose*/
-  background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-05%20at%206.29.29%20AM.png?1575545512819"); /*60% width on this, white text - hub */
-  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/historic/primitives_old-me.jpg"); /*use 100% width on this* renders w/ green back, white text*/
-  /*background-image: url("https://brlcad.org/gallery/_data/i/galleries/renderings/verde/nave4-cu_e520x360.jpg"); /*60% width, 98% height & lightGray background color, white text - space looking project*/
+  background-color: #707A95;
+  /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%208.09.26%20AM.png?1575724187553"); /*cover, 350px height, white text - circle things*/
+  /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%207.46.23%20AM.png?1575722822109"); /*300px height, cover on this, white text - tank rendering*/
+  /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2FScreenshot%202019-12-07%20at%208.18.22%20AM.png?1575724758274"); /*cover on this, white text - shape header */
+  /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%208.13.09%20AM.png?1575724465794"); /*use cover on this, pink text - dots*/
+  background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%207.51.47%20AM.png?1575723120536"); /*60% width, 300px height, background color #707A95, white text - cad ine drawing*/
   /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-05%20at%205.55.30%20AM.png?1575543346523"); /*60% width, black background, pink text - gear thing*/
   background-repeat: no-repeat;
-  background-size: 60%  100%;
+  background-size: 60% 100%;
   background-position: center;
-  height: 350px;
+  height: 300px;
   
 }
 .wrapper-main{
