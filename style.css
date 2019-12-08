@@ -142,14 +142,13 @@ a.menu{
     font-family: Intro, Segoe UI, Open Sans, Arial, sans-serif;
     font-size: 100px;
     color: #2d2d2d;  /* #2c3e50; */
-    margin-top: 20px;
+    margin-bottom: 30px;
 }
 .brl{
     position: relative;
     font-family: Intro, Segoe UI, Open Sans, Arial, sans-serif;
     font-size: 100px;
-    color: white;/*#d0245e; */
-    margin-top: 30px;
+    color: /*white;*/#d0245e; 
 
     text-shadow: 0px 0px 4px #282828,
     -1px -1px 0 #282828,
@@ -222,12 +221,12 @@ a.menu{
   /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%207.46.23%20AM.png?1575722822109"); /*300px height, cover on this, white text - tank rendering*/
   /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2FScreenshot%202019-12-07%20at%208.18.22%20AM.png?1575724758274"); /*cover on this, white text - shape header */
   /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%208.13.09%20AM.png?1575724465794"); /*use cover on this, pink text - dots*/
-  background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%207.51.47%20AM.png?1575723120536"); /*60% width, 300px height, background color #707A95, white text - cad ine drawing*/
-  /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-05%20at%205.55.30%20AM.png?1575543346523"); /*60% width, black background, pink text - gear thing*/
+  background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-07%20at%207.51.47%20AM.png?1575723120536"); /*40% width, 300px height, background color #707A95, white text - cad ine drawing*/
+  /*background-image: url("https://cdn.glitch.com/e4a7d1e9-26eb-4304-9ef7-86c830bf7582%2Fthumbnails%2FScreenshot%202019-12-05%20at%205.55.30%20AM.png?1575543346523"); /*40% width, black background, pink text - gear thing*/
   background-repeat: no-repeat;
-  background-size: 60% 100%;
+  background-size: 40% 100%;
   background-position: center;
-  height: 300px;
+  height: 200px;
   
 }
 .wrapper-main{
