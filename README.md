@@ -1,3 +1,5 @@
+The finalized version of the about page of BRL-CAD
+
 Welcome to Glitch
 =================
 
